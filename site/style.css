@@ -1,0 +1,47 @@
+
+.gerb {
+    width: 100px;
+
+}
+.image_of_item{
+    width: 200px;
+}
+.item_of_list div{
+    margin-bottom: 15px;
+    height: auto;
+}
+.item_of_list a{
+    text-decoration: none;
+}
+
+.gallery li{
+    list-style-type: none;
+}
+.gallery img{
+    width: 100px;
+    margin: auto;
+}
+.main-page img{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.second-page img {
+    width: 250px;
+}
+
+footer .row{
+    padding-top: 25px;
+    display: flex;
+    align-items: flex-end;
+    text-align: right;
+
+}
+.footer_link{
+    text-decoration: none;
+}
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
